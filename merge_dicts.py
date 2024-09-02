@@ -1,9 +1,4 @@
-'''
-Write a Python function named merge_dicts that takes two dictionaries
- as input and merges them into a single dictionary.
-   If there are any common keys, their values should be summed up.
 
-'''
 math = {'ann':50,'sam':89,'ernest':2}
 eng = {'sarah':58,'sam':96,'ernest':1}
 

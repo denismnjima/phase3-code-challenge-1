@@ -1,7 +1,3 @@
-'''
-Define a Python class named Car with the following attributes: make, model, year. 
-Implement a method named display_info that prints out the car's information.
-'''
 
 class Car:
     def __init__(self,make,model,year):
